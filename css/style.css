@@ -1,0 +1,54 @@
+.menu {
+	background-color: #ecf0f1;
+}
+.center {
+	text-align: center;
+}
+.profile {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border-style: double;
+	border-width: 0,5px;
+	border-color: 
+}
+.home {
+	background-image: url('../imagem/bg1.jpg');
+	background-size: cover;
+}
+.cor-hr {
+	border-color: #fff;
+}
+.sobre {
+	background-image: url('../imagem/bg-sobre.jpg');
+	background-size: cover;
+}
+.title {
+	font-weight: bold;
+}
+.cor-h1{
+	color: #ebfb73e3;
+}
+.descricao {
+	color: #ebfb73e3;
+}
+.footer {
+	border-top: 1px solid #ccc;
+	padding-top: 6px;
+}
+#contato {
+	background-color: #4b4b4b;
+	padding: 0rem;
+}
+.dev {
+	font-weight: lighter;
+	font-style: italic;
+}
+.conheca-me:hover{
+	color: red;
+	/*background-color: #fff;*/
+	/*border-style: dashed;*/
+	border: 0px;
+	/*border-color: red;*/
+	box-shadow: 5px 6px 8px #ff2;
+}
